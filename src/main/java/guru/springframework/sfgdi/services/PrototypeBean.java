@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 public class PrototypeBean {
 
     public PrototypeBean() {
-        System.out.println("Creating a Priototype Bean");
+        System.out.println("Creating a Prototype Bean");
     }
 
     public String getMyScope() {
